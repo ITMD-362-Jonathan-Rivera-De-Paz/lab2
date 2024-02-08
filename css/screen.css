@@ -23,12 +23,12 @@ input{
 
 body{
   font-family:'Garamond', serif;
-  margin: 15%;
+  margin: 15px;
   font-size: 20px;
   background-color: purple;
 }
 
-@media (min-width: 768px){
+@media (min-width: 720px){
   fieldset{
 	  max-width: 85%
   }
